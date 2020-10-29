@@ -1,6 +1,6 @@
 .todo {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     background-color: rgba(9, 9, 9, 0.1);
     color: #444;
     padding: 10px 20px;
